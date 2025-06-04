@@ -9,14 +9,14 @@ This repository analyzes password strength using [The Password Meter](https://ww
 | `Admin`             | 19%   | Very Weak    |
 | `#Lo@ST002`         | 98%   | Very Strong  |
 | `#man_(8875)GoN**`  | 100%  | Very Strong  |
-
+| `#@kalluman#%64_**` | 98%   | Very Strong  |
 ## 📷 Screenshots
 
 Located in the `screenshots/` folder:
 - Weak: `weak-password.png`
 - Strong 1: `strong-password-1.png`
 - Strong 2: `strong-password-2.png`
-
+- Strong 3: `strong-password-3.png`
 ## 🧠 Key Takeaways
 
 - Use a mix of **uppercase**, **lowercase**, **numbers**, and **symbols**
