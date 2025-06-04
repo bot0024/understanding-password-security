@@ -22,6 +22,12 @@
 - ✅ Long length (16+)
 - ✅ No major deductions
 
+## Test 4: `#@kalluman#%64_**`
+- **Score**: 93%
+- **Complexity**: Very Strong
+- ✅ High character diversity
+- ✅ Long length (14)
+- ✅ No major deductions
 ---
 
 ## Password Security Tips
